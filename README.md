@@ -1,4 +1,5 @@
 # portfolio-data-science
+## Nam-kyu's Data Science Portfolio
 This repository includes my Data Science Portfolio.
 It highlights my knowledge and skills in using Python, SQL, and R.
 The projects here include the projects I have done for IBM Data Science Professional Certificate (Coursera),
