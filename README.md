@@ -7,3 +7,7 @@ Programming for Data Science (UDacity) and others.
 
 This does not include any projects or assignments that were more of 'fill in the blank with a line of code' types.
 I have only included projects and assignments where I had to put time and work to write and edit codes to make them work.
+
+## 1. Explore_US_Bikeshare_Data
+
+## 2. IBM_Data_Science_Professional_Certificate_Capstone
