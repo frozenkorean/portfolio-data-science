@@ -14,5 +14,5 @@ I have only included projects and assignments where I had to put time and work t
 
 ### 2. IBM_Data_Science_Capstone
 #### Capstone project for the IBM Data Science Professional Certificate provided by Coursera.
-- **Given Objective**: Use Foursqare API and clustering to compare neighborhoods. Choose whatever location and theme that seems interesting.
+- **Given Objective**: Use Foursqare API and clustering to compare neighborhoods. Choose whatever location, data, and theme that seems interesting.
 - **My Topic**: 
