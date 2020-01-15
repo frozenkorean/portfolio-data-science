@@ -26,5 +26,6 @@ Using kmeans clustering, the communities were clustered into five groups based o
 
 ## SQL
 ### 3. Investigate_Sakila_Movie_Database
+#### Final project for the SQL component of Programming for Data Science with Python Nanodegree on Udacity
 - **Given Objective**: Using the Sakila Movie Database, come up with four queries answering your own business questions.
 - **My Project**: As a new manager, I divided customers into various groups based on number of rentals, total payment, and rentals with no returns. The VVIPs were ranked on their payment amount, and their favorite movie genres were shown to cater to them better. To increase customers, popular actors for the top countries with 20 or more customers were discovered to use in commercials. Finally, the monthly payment trend for the countries was analyzed.
