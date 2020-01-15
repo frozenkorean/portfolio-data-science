@@ -8,7 +8,7 @@ Programming for Data Science (UDacity) and others.
 My portfolio does not include any projects or assignments that were more of 'fill in the blank with a line of code' types.
 I have only included projects and assignments where I had to put time and work to write and edit codes to make them work.
 
-#### **I have only summarized them here. Please check out the individual folders for more details.**
+### I have only summarized them here. Please check out the individual folders for more details.
 
 ## Python
 ### 1. IBM_Data_Science_Capstone
