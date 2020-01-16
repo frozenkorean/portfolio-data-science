@@ -16,6 +16,7 @@ I have only included projects and assignments where I had to put time and work t
 - **Given Objective**: Use Foursquare API and clustering to compare neighborhoods. Choose whatever location, data, and theme that seems interesting.
 - **Packages Used**: NumPy, Pandas, Matplotlib, Folium, Geopy, Scikit-learn, and more.
 - **My Project**: Health-promoting resources and life expectancy at birth for communities in Chicago.
+
 Using kmeans clustering, the communities were clustered into five groups based on the number of health resources (gathered using Foursquare API) under four categories, healthcare facilities, healthy food store, outdoor places, and sports facilities, and compared with average life expectancies. The results were displayed over a choropleth map of life expectancy of Chicago communities. The areas where most resources are needed and some outlier communities were identified.
 
 ### 2. Explore_US_Bikeshare_Data
