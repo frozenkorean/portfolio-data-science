@@ -23,7 +23,7 @@ Using kmeans clustering, the communities were clustered into five groups based o
 #### Final project for the Python component of Programming for Data Science with Python Nanodegree on Udacity
 - **Given Objective**: Using the bikeshare data of 3 cities, Chicago, New York, and Washington, get user input and display some statistics.
 - **Packages Used**: NumPy and Pandas
-- **My Project**: User chose one of the cities and chose whether or not to filter the data by month, day, both, or not at all. Every time there was a user input, checks were put into place so that the user can go back and input their choice again or quit the program. Various statistics, including customer characteristics, popular stations, and more, were calculated.
+- **My Project**: User chooses one of the cities and chose whether or not to filter the data by month, day, both, or not at all. Every time there is a user input, checks are put into place so that the user can go back and input their choice again or quit the program. Various statistics, including customer characteristics, popular stations, and more, are calculated.
 
 ## SQL
 ### 3. Investigate_Sakila_Movie_Database
