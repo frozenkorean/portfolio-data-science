@@ -12,6 +12,7 @@ I have only included projects and assignments where I had to put time and work t
 
 ## Python
 ### 1. IBM_Data_Science_Capstone
+#### Title: Health-promoting resources and life expectancy at birth for communities in Chicago.
 #### Capstone project for the IBM Data Science Professional Certificate provided by Coursera.
 - **Given Objective**: Use Foursquare API and clustering to compare neighborhoods. Choose whatever location, data, and theme that seems interesting.
 - **Packages Used**: NumPy, Pandas, Matplotlib, Folium, Geopy, Scikit-learn, and more.
