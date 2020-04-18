@@ -181,7 +181,7 @@ def load_data(city, month, day):
     """
 
     # load the city data into pandas dataframe
-    df = pd.read_csv(CITY_DATA[city])
+    df = pd.read_csv('./data/{}'.format(CITY_DATA[city]))
 
     # convert the start time to datetime type and extract month, day, and hour
     df['Start Time'] = pd.to_datetime(df['Start Time'])
